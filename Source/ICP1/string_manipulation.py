@@ -1,0 +1,6 @@
+a = input("Please enter a string: ")
+b = a.replace(a[2:4],'')
+c = a.replace(a[4],"")
+d = c.replace(c[2],"")
+print(b[::-1])
+print(d[::-1])
