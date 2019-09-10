@@ -1,0 +1,12 @@
+Python 2 and Python 3 differnces:
+
+1. Division Operator : 
+	In python 2.x division operator returnes values to a rounded integer while in python 3.x it returnes a accurate float value
+2. Print method :
+	python 2.x : print "hello world"
+	python 3.x : print("hello world")
+3. Unicode
+	python 2.x : implicit string values are in ASCII
+	python 3.x : implicit string values are same as unicode
+4. Error handling
+	most of error handling is same except in python 3.x we have to use 'as' keyword
